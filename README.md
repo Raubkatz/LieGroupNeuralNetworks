@@ -4,9 +4,6 @@ This repository is a collection of functions and classes for using Lie Group Tra
 
 
 python==3.8.19.
-
-
-pip install \
   numpy==1.24.3 \
   scipy==1.10.1 \
   scikit-learn==1.3.2 \
